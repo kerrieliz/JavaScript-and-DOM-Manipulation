@@ -11,3 +11,6 @@
 ### Use Case 
 - Using the date form in the HTML document, JavaScript code was written to listen for events and search through the date/time column to find rows that match user input 
 
+### Dataset Size
+- 1000 rows
+
