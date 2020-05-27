@@ -1,4 +1,4 @@
-# javascript
+# JavaScript and DOM Manipulation
 
 
 ## Features
